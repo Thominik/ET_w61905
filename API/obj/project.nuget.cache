@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAXqol30mh+O7pDtEx79rPI+b0yf4EFDoiIISMnu3GugtOgtUvubmxgrn1Upc+ZHO6jVmoBbKUaW2xdZ2SBllg==",
+  "success": true,
+  "projectFilePath": "/Users/dominikbednarz/Documents/webowki/ET_w61905/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/dominikbednarz/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/dominikbednarz/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dominikbednarz/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/dominikbednarz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/dominikbednarz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/dominikbednarz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

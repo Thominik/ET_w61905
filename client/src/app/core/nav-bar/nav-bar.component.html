@@ -4,11 +4,11 @@ bg-white border-bottom shadow-sm fixed-top">
   <nav class="my-2 my-md-0 mr-md-3 text-uppercase" style="font-size: larger;">
     <a class="p-2" routerLink="" routerLinkActive="active">Strona główna</a>
     <a class="p-2" routerLink="/announcement" routerLinkActive="active">Ogłoszenia</a>
-    <a class="p-2">Dodaj ogłoszenie</a>
-    <a class="p-2" routerLink="/test-error" routerLinkActive="active">Kontakt</a>
+    <a class="p-2" routerLink="/announcement/add" routerLinkActive="active">Dodaj ogłoszenie</a>
+    <a class="p-2" routerLink="/contact" routerLinkActive="active">Kontakt</a>
   </nav>
   <div class="d-flex align-items-center">
-    <a class="btn btn-outline-primary mr-2">Zaloguj się</a>
-    <a class="btn btn-outline-danger mr-3">Załóż konto</a>
+    <a routerLinkActive="active" routerLink="/login" class="btn btn-outline-primary mr-2">Zaloguj się</a>
+    <a routerLinkActive="active" routerLink="/register" class="btn btn-outline-danger mr-3">Załóż konto</a>
   </div>
 </div>

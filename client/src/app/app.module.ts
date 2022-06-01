@@ -9,13 +9,15 @@ import {HTTP_INTERCEPTORS, HttpClient, HttpClientModule} from "@angular/common/h
 import {HomeModule} from "./home/home.module";
 import {AnnouncementComponent} from "./announcement/announcement.component";
 import {LoadingInterceptors} from "./core/interceptors/loading.interceptors";
+import { ContactComponent } from './contact/contact/contact.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     NavBarComponent,
-    AnnouncementComponent
+    AnnouncementComponent,
+    ContactComponent
   ],
     imports: [
         BrowserModule,
